@@ -1,3 +1,1 @@
-[![Build status]()
-
-[github pages]()
+[![Build status](https://ci.appveyor.com/api/projects/status/nntdfnn9k09ye6t2?svg=true)](https://ci.appveyor.com/project/Marjon-art/dnd)
